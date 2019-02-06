@@ -40,4 +40,3 @@ Below is a list of AI Residency programs offered by various industrial
 |Microsoft|[Link](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/)|
 |IBM|[Link](https://www.research.ibm.com/university/awards/phdfellowship.shtml)|
 |Einstein Center for Neurosciences (ECN) - Berlin|[Link](https://www.ecn-berlin.de/education/phd-fellowships.html)|
-||[Link]()|
