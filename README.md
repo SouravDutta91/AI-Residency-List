@@ -30,3 +30,14 @@ Below is a list of AI Residency programs offered by various industrial
 |OpenAI Programs|[Link](https://openai.com/jobs/)|
 |Allen AI Predoctoral Young Investogator Program|[Link](https://allenai.org/jobs/job/allen-ai-predoctoral-young-investigator-program-812158.html)|
 |Allen AI Young Investigator Program|[Link](https://allenai.org/young-investigator-program.html)|
+
+## PhD Fellowships/Scholarships
+
+| Offered by | Link | Notes |
+|------------|------|-------|
+|Google|[Link](https://ai.google/research/outreach/phd-fellowship/)|
+|Facebook|[Link](https://research.fb.com/programs/fellowship/)|
+|Microsoft|[Link](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/)|
+|IBM|[Link](https://www.research.ibm.com/university/awards/phdfellowship.shtml)|
+|Einstein Center for Neurosciences (ECN) - Berlin|[Link](https://www.ecn-berlin.de/education/phd-fellowships.html)|
+||[Link]()|
