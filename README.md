@@ -7,8 +7,8 @@ Below is a list of AI Residency programs offered by various industrial
 
 ## List of AI Residency programs:
 
-| Offered by | Link | Duration | Notes |
-|------------|------|----------|-------|
+| Offered by | Link | Duration |
+|------------|------|----------|
 |Google|[Link](https://ai.google/research/join-us/ai-residency/)|12 months|
 |X Company|[Link](https://x.company/careers-at-x/4114336002/)|12 weeks|
 |Microsoft|[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)|12 months|
@@ -27,11 +27,11 @@ Below is a list of AI Residency programs offered by various industrial
 
 | Offered by | Link | Notes |
 |------------|------|-------|
-|OpenAI Programs|[Link](https://openai.com/jobs/)|
-|Allen AI Predoctoral Young Investogator Program|[Link](https://allenai.org/jobs/job/allen-ai-predoctoral-young-investigator-program-812158.html)|
-|Allen AI Young Investigator Program|[Link](https://allenai.org/young-investigator-program.html)|
+|OpenAI Programs|[Link](https://openai.com/jobs/)|Check for fellowship and internship roles|
+|Allen AI Predoctoral Young Investogator Program|[Link](https://allenai.org/jobs/job/allen-ai-predoctoral-young-investigator-program-812158.html)|Before Ph.D.|
+|Allen AI Young Investigator Program|[Link](https://allenai.org/young-investigator-program.html)|After Ph.D.|
 
-## PhD Fellowships/Scholarships
+## Ph.D. Fellowships/Scholarships
 
 | Offered by | Link | Notes |
 |------------|------|-------|
