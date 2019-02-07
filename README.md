@@ -1,4 +1,4 @@
-# List of AI Residency programs, Research programs, Ph.D. Fellowships, Research Internships
+# AI Residency programs, Research programs, Ph.D. Fellowships, Research Internships
 
 ## What is AI Residency?
 AI Residency is a program offered mainly by industrial companies (mainly companies who are involved with Artificial Intelligence) to students and upcoming future researchers to dive into the world of research. The aim is to prepare the candidates so that they are able to engage in research by themselves with minimum or no supervision. Often, good quality research papers are published based on the research work in AI Residency programs.
