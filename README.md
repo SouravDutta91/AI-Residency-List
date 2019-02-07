@@ -31,7 +31,7 @@ Below is a list of AI Residency programs offered by the AI industry with their d
 |Allen AI Predoctoral Young Investogator Program|[Link](https://allenai.org/jobs/job/allen-ai-predoctoral-young-investigator-program-812158.html)|Before Ph.D.|
 |Allen AI Young Investigator Program|[Link](https://allenai.org/young-investigator-program.html)|After Ph.D.|
 
-## Ph.D. Fellowships/Scholarships
+## Ph.D. Fellowships/Scholarships (Industry supported)
 
 | Offered by | Link | Notes |
 |------------|------|-------|
@@ -40,3 +40,13 @@ Below is a list of AI Residency programs offered by the AI industry with their d
 |Microsoft|[Link](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/)|
 |IBM|[Link](https://www.research.ibm.com/university/awards/phdfellowship.shtml)|
 |Intel|[Link](https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/phd-fellowship-provisions.pdf)|
+
+## AI Research Internships
+
+| Offered by | Link | Notes |
+|------------|------|-------|
+|Google AI|[Link](https://careers.google.com/jobs/results/?company=Google&company=YouTube&employment_type=INTERN&hl=en_US&jlo=en_US&q=Research%20Intern&sort_by=relevance)|Different kinds of roles|
+|Facebook AI Research (FAIR)|[Link](https://www.facebook.com/careers/jobs/?q=AI%20research%20intern)|Mainly Ph.D.|
+|Microsoft Research (MSR)|[Link](https://careers.microsoft.com/us/en/search-results?rt=university&keywords=AI%20Research%20Intern)|Mainly Ph.D.|
+|OpenAI|[Link](https://openai.com/jobs/)|Only Ph.D. (keep checking)|
+|AliBaba (Research)|[Link](https://campus.alibaba.com/en/talentPlanDetail?id=82)|In China and US|
