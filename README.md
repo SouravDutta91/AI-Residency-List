@@ -50,3 +50,7 @@ Below is a list of AI Residency programs offered by the AI industry with their d
 |Microsoft Research (MSR)|[Link](https://careers.microsoft.com/us/en/search-results?rt=university&keywords=AI%20Research%20Intern)|Mainly Ph.D.|
 |OpenAI|[Link](https://openai.com/jobs/)|Only Ph.D. (keep checking)|
 |AliBaba (Research)|[Link](https://campus.alibaba.com/en/talentPlanDetail?id=82)|In China and US|
+
+## Notes
+
+This is an ongoing list, so it will be updated. In case you know something that you think would be a good addition to this list, let me know :)
