@@ -5,12 +5,23 @@ AI Residency is a program offered mainly by industrial companies (mainly compani
 
 Below is a list of AI Residency programs offered by the AI industry with their durations. Visit the links to know more about the individual programs in detail.
 
-## List of AI Residency programs:
+## AI Residency programs:
+### 2020
+|From|Link|Duration|Notes|
+|----|----|--------|-----|
+|X Company|[Link](https://x.company/careers-at-x/4225880002/)|12 weeks|X, an Alphabet company|
+|Matician|[Link](https://matician.com/ai-residency.html)|1 year|Product-based AI residency|
+|VinAI|[Link](https://www.vinai.io/ai-residency/)||Vietnam AI|
+|FCAI|[Link](https://fcai.fi/ai-residency)|2-12 months|Finnish Center for Artificial Intelligence|
+|Google (Health)|[Link](https://careers.google.com/jobs/results/136709006283416262-google-ai-resident-health-2020-start-fixed-term-employee/)|1 year|London, UK and Palo Alto, US|
+|1000ml|[Link](http://residency.1000ml.io/)|6 months|Canada|
+|European ARTificial Intelligence Lab|[Link](https://ars.electronica.art/ailab/en/opencall/)|4-8 weeks + 1 month|Edinburgh, UK|
+
+## 2019
 
 | Offered by | Link | Duration |
 |------------|------|----------|
 |Google|[Link](https://ai.google/research/join-us/ai-residency/)|12 months|
-|X Company|[Link](https://x.company/careers-at-x/4114336002/)|12 weeks|
 |Microsoft|[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)|12 months|
 |Facebook|[Link](https://research.fb.com/programs/facebook-ai-residency-program/)|12 months|
 |nVidia|[Link](https://research.nvidia.com/research-residency)|12 months|
@@ -18,12 +29,12 @@ Below is a list of AI Residency programs offered by the AI industry with their d
 |IBM|[Link](https://www.research.ibm.com/artificial-intelligence/careers/ai-residency/)|12 months|
 |Uber|[Link](https://careersinfo.uber.com/ai-residency)|12 months|
 |DESSA|[Link](https://www.dessa.com/careers/)|8 months|
-|Preferred Networks (PFN)|[Link](https://www.preferred-networks.jp/en/news/residency-program2018-2019tokyo)|6-12 months|
 |Tooploox|[Link](https://www.tooploox.com/blog/ai-residency-program)|1-4 years|
 |Clova|[Link](https://clova.ai/m/en/research/careers.html)|6 months|
 |Shell|[Link](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)|2 years|
 
-## List of Research programs (similar to AI Residency)
+
+## Other open research programs (similar to AI Residency)
 
 | Offered by | Link | Notes |
 |------------|------|-------|
@@ -53,4 +64,4 @@ Below is a list of AI Residency programs offered by the AI industry with their d
 
 ## Notes
 
-This is an ongoing list, so it will be updated. In case you know something that you think would be a good addition to this list, let me know :)
+This is an ongoing list, so it will be updated. In case you know something that you think would be a good addition to this list, let me know through an issue. Cheers! :)
