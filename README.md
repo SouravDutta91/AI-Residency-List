@@ -6,9 +6,16 @@ AI Residency is a program offered mainly by industrial companies (mainly compani
 Below is a list of AI Residency programs offered by the AI industry with their durations. Visit the links to know more about the individual programs in detail.
 
 ## AI Residency programs:
+
+### 2021
+|From|Link|Duration|Notes|
+|----|----|--------|-----|
+|Apple AI/ML Resident|[Seattle (US)](https://jobs.apple.com/de-de/details/200187307/ai-ml-residency-program?team=MLAI) [Cambridge (UK)](https://jobs.apple.com/de-de/details/200188556/ai-ml-residency-program?team=MLAI) [Cupertino (US)](https://jobs.apple.com/de-de/details/200175569/ai-ml-residency-program?team=MLAI)|1 year|Multiple Locations @ Summer 2021|
+
 ### 2020
 |From|Link|Duration|Notes|
 |----|----|--------|-----|
+|Apple AI/ML Resident|[Seattle (US)](https://jobs.apple.com/de-de/details/200187307/ai-ml-residency-program?team=MLAI) [Cambridge (UK)](https://jobs.apple.com/de-de/details/200188556/ai-ml-residency-program?team=MLAI) [Cupertino (US)](https://jobs.apple.com/de-de/details/200175569/ai-ml-residency-program?team=MLAI)|1 year|Multiple Locations|
 |Google AI Resident 2020|[Link](https://careers.google.com/jobs/results/?company=Google&hl=en_US&jlo=en_US&q=Google%20AI%20Resident&sort_by=relevance)|1 year|Multiple locations|
 |X Company|[Link](https://x.company/careers-at-x/4816459002/)|Fall/Winter 2020 (12 weeks - 6 months) Virtual|Focus: Time-series forecasting / causal inference|
 |Matician|[Link](https://matician.com/ai-residency.html)|1 year|Product-based AI residency|
@@ -17,23 +24,6 @@ Below is a list of AI Residency programs offered by the AI industry with their d
 |Google (Health)|[Link](https://careers.google.com/jobs/results/136709006283416262-google-ai-resident-health-2020-start-fixed-term-employee/)|1 year|London, UK and Palo Alto, US|
 |1000ml|[Link](http://residency.1000ml.io/)|6 months|Canada|
 |European ARTificial Intelligence Lab|[Link](https://ars.electronica.art/ailab/en/opencall/)|4-8 weeks + 1 month|Edinburgh, UK|
-
-## 2019
-
-| Offered by | Link | Duration |
-|------------|------|----------|
-|Google|[Link](https://ai.google/research/join-us/ai-residency/)|12 months|
-|Microsoft|[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)|12 months|
-|Facebook|[Link](https://research.fb.com/programs/facebook-ai-residency-program/)|12 months|
-|nVidia|[Link](https://research.nvidia.com/research-residency)|12 months|
-|Intel|[Link](https://www.intel.ai/research-programs)|12 months|
-|IBM|[Link](https://www.research.ibm.com/artificial-intelligence/careers/ai-residency/)|12 months|
-|Uber|[Link](https://careersinfo.uber.com/ai-residency)|12 months|
-|DESSA|[Link](https://www.dessa.com/careers/)|8 months|
-|Tooploox|[Link](https://www.tooploox.com/blog/ai-residency-program)|1-4 years|
-|Clova|[Link](https://clova.ai/m/en/research/careers.html)|6 months|
-|Shell|[Link](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)|2 years|
-
 
 ## Other open research programs (similar to AI Residency)
 
