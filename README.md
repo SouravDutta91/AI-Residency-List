@@ -10,7 +10,7 @@ Below is a list of AI Residency programs offered by the AI industry with their d
 |From|Link|Duration|Notes|
 |----|----|--------|-----|
 |Google AI Resident 2020|[Link](https://careers.google.com/jobs/results/?company=Google&hl=en_US&jlo=en_US&q=Google%20AI%20Resident&sort_by=relevance)|1 year|Multiple locations|
-|X Company|[Link](https://x.company/careers-at-x/4225880002/)|12 weeks|X, an Alphabet company|
+|X Company|[Link](https://x.company/careers-at-x/4816459002/)|Fall/Winter 2020 (12 weeks - 6 months) Virtual|Focus: Time-series forecasting / causal inference|
 |Matician|[Link](https://matician.com/ai-residency.html)|1 year|Product-based AI residency|
 |VinAI|[Link](https://www.vinai.io/ai-residency/)||Vietnam AI|
 |FCAI|[Link](https://fcai.fi/ai-residency)|2-12 months|Finnish Center for Artificial Intelligence|
