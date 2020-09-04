@@ -15,7 +15,6 @@ Below is a list of AI Residency programs offered by the AI industry with their d
 ### 2020
 |From|Link|Duration|Notes|
 |----|----|--------|-----|
-|Apple AI/ML Resident|[Seattle (US)](https://jobs.apple.com/de-de/details/200187307/ai-ml-residency-program?team=MLAI) [Cambridge (UK)](https://jobs.apple.com/de-de/details/200188556/ai-ml-residency-program?team=MLAI) [Cupertino (US)](https://jobs.apple.com/de-de/details/200175569/ai-ml-residency-program?team=MLAI)|1 year|Multiple Locations|
 |Google AI Resident 2020|[Link](https://careers.google.com/jobs/results/?company=Google&hl=en_US&jlo=en_US&q=Google%20AI%20Resident&sort_by=relevance)|1 year|Multiple locations|
 |X Company|[Link](https://x.company/careers-at-x/4816459002/)|Fall/Winter 2020 (12 weeks - 6 months) Virtual|Focus: Time-series forecasting / causal inference|
 |Matician|[Link](https://matician.com/ai-residency.html)|1 year|Product-based AI residency|
